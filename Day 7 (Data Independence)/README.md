@@ -1,4 +1,4 @@
-Data Independence
+#  Data Independence
 
 Data independence can be explained using the three-schema architecture.
 Data independence refers characteristic of being able to modify the schema at one level of the database system without altering the schema at the next higher level.
