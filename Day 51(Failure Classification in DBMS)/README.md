@@ -26,4 +26,4 @@ Fail-stop assumption: In the system crash, non-volatile storage is assumed not t
 ## 3. Disk Failure
 
 It occurs where hard-disk drives or storage drives used to fail frequently. It was a common problem in the early days of technology evolution.
-Disk failure occurs due to the formation of bad sectors, disk head crash, and unreachability to the disk or any other failure, which destroy all or part of disk storage.
+Disk failure occurs due to the formation of bad sectors, disk head crash, and unreachability to the disk or any other failure which destroy all or part of disk storage.
